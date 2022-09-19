@@ -1,0 +1,95 @@
+body{
+    background: black;
+    color: greenyellow;
+    min-height: 100vh;
+}
+header
+{
+   
+     text-align:center;
+     font-size: 500%;
+     font-family:"Brush Script MT" , Brush Script Std, cursive;   
+}
+li,a
+{
+     font-family: Georgia, serif;
+     font-weight: 500;
+     font-size: 500;
+     color: whitesmoke;
+     text-decoration:solid;
+     height:100;
+     
+      
+}
+a:hover
+{
+    
+   background-color:black;
+
+}
+   
+.bar
+{
+    height: 40px;
+    background-color:rgb(25, 212, 25);
+    font-family: Georgia, serif;
+     font-weight: 500;
+     font-size: 500;
+     
+}
+.bar li
+{
+    text-align: center;
+    display: inline-block;
+    padding: 0px 50px;
+}
+
+ 
+ 
+  p{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    font-size: x-large;
+    font-family:"Brush Script MT" , Brush Script Std, cursive; 
+}
+.intro
+{
+        display: flex;
+        justify-content: space-between;
+
+}
+.intro img
+{
+    display: flex;
+    float: left;
+    border-radius: 100%;
+    overflow:hidden;
+    margin-left: -50px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+}
+footer
+{
+  position : sticky;
+  top: 100%;
+  text-align: center;
+  background-color:rgb(25,212,25);
+  color:black
+  
+}
+.bio
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-family:"Brush Script MT" , Brush Script Std, cursive; 
+}
+.para
+{
+   font-style: "TIMES NEW ROMAN",sherif;
+}

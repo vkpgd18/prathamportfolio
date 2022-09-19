@@ -1,0 +1,57 @@
+
+body{
+    background: black;
+    color: greenyellow;
+    min-height: 100vh;
+}
+header
+{
+   
+     text-align:center;
+     font-size: 500%;
+     font-family:"Brush Script MT" , Brush Script Std, cursive;   
+}
+table, th, td 
+{
+
+    border: 1px solid white;
+ }
+
+ .eq
+ {
+    margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+ }
+ .h
+ {
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+ }
+.st
+{
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+.c
+{
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+footer
+{
+  position : sticky;
+  top: 100%;
+  text-align: center;
+  background-color:rgb(25,212,25);
+  color:black
+  
+}
+

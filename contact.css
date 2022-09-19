@@ -1,0 +1,40 @@
+body{
+    background: black;
+    color: greenyellow;
+    min-height:100ch;
+}
+header
+{
+   
+     text-align:center;
+     font-size:500%;
+     font-family:"Brush Script MT" , Brush Script Std, cursive; 
+   
+}
+.logos
+ {
+ 
+    margin:auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+    font-size: 20px;
+ }
+table, th, td 
+{
+  
+    margin:auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid white;
+ }
+footer
+{
+  position : sticky;
+  top: 100%;
+  text-align: center;
+  background-color:rgb(25,212,25);
+  color:black
+  
+}
+ 
